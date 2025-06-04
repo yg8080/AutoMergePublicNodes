@@ -1,31 +1,31 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|16🇰🇷韩国|官网：abluecloud.xyz
-  password: dbdf04f2-8bb8-4218-81d4-aa709dc56171
-  port: 36311
-  server: freea.glyphara.com
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 1|🇰🇷2 |  1.5MB/s|44%|Openai
-  password: qwerREWQ@@
-  port: 15098
-  server: 125.141.31.72
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 2|16🇰🇷韩国|官网：m5c3cloud.pro
-  password: 34d76ed7-6272-496b-8b6b-0d8172077faf
+  name: 0|16🇰🇷韩国|官网：m5c3cloud.pro
+  password: dd85d0af-15c0-4913-99ec-39e4e828dbdc
   port: 31311
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|17🇰🇷韩国|官网：米卡莎.xyz
-  password: 34d76ed7-6272-496b-8b6b-0d8172077faf
+  name: 0|17🇰🇷韩国|官网：m5c3cloud.pro
+  password: dd85d0af-15c0-4913-99ec-39e4e828dbdc
   port: 31313
   server: freem.vidalith.com
   type: ss
   udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 1|16🇰🇷韩国|官网：a5b3cloud.pro
+  password: ab56b9f9-0cbc-422a-bc96-a4f277594c1b
+  port: 36311
+  server: freea.glyphara.com
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: 2|🇰🇷2 |  1.5MB/s|44%|Openai
+  password: qwerREWQ@@
+  port: 15098
+  server: 125.141.31.72
+  type: ss
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 12|🇰🇷 韩国|@ripaojiedian
