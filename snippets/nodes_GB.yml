@@ -1,8 +1,1 @@
-proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 1|4🇭🇰香港|官网：mikasacloud.site
-  password: 74a25faa-e514-45d6-a4e2-772fc55d8ce7
-  port: 31141
-  server: freem.vidalith.com
-  type: ss
-  udp: true
+proxies: []
