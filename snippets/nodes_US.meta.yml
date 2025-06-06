@@ -1,21 +1,21 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
   name: 0|19🇺🇸美国|官网：米卡莎.xyz
-  password: 396eafca-caf3-472f-8b84-a09f3ec2f9fb
+  password: 4670200a-dc99-45e4-838a-f358ad689b96
   port: 31211
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|20🇺🇸美国家宽|官网：m5c3cloud.pro
-  password: 396eafca-caf3-472f-8b84-a09f3ec2f9fb
+  name: 0|20🇺🇸美国家宽|官网：米卡莎.xyz
+  password: 4670200a-dc99-45e4-838a-f358ad689b96
   port: 31213
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|21🇺🇸美国|官网：mikasacloud.site
-  password: 396eafca-caf3-472f-8b84-a09f3ec2f9fb
+  name: 0|21🇺🇸美国|官网：米卡莎.xyz
+  password: 4670200a-dc99-45e4-838a-f358ad689b96
   port: 31215
   server: freem.vidalith.com
   type: ss
@@ -1337,21 +1337,21 @@ proxies:
   type: socks5
 - cipher: chacha20-ietf-poly1305
   name: 2|18🇺🇸美国|官网：abluecloud.xyz
-  password: 92bc0b5a-6d7a-4ab1-8a7c-b3cf788a61fb
+  password: a81f044f-bad1-44eb-bdf1-a32e608e50d0
   port: 36211
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|19🇺🇸美国住宅IP|官网：abluecloud.xyz
-  password: 92bc0b5a-6d7a-4ab1-8a7c-b3cf788a61fb
+  name: 2|19🇺🇸美国住宅IP|官网：a5b3cloud.pro
+  password: a81f044f-bad1-44eb-bdf1-a32e608e50d0
   port: 36213
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|20🇺🇸美国|官网：蓝色海洋.xyz
-  password: 92bc0b5a-6d7a-4ab1-8a7c-b3cf788a61fb
+  name: 2|20🇺🇸美国|官网：a5b3cloud.pro
+  password: a81f044f-bad1-44eb-bdf1-a32e608e50d0
   port: 36215
   server: freea.glyphara.com
   type: ss
