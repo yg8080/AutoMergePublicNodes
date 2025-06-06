@@ -1,14 +1,14 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|16🇰🇷韩国|官网：米卡莎.xyz
-  password: 4f7655f5-c97c-4317-ab04-a2a5c97c1a36
+  name: 0|16🇰🇷韩国|官网：mikasacloud.site
+  password: 396eafca-caf3-472f-8b84-a09f3ec2f9fb
   port: 31311
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|17🇰🇷韩国|官网：米卡莎.xyz
-  password: 4f7655f5-c97c-4317-ab04-a2a5c97c1a36
+  password: 396eafca-caf3-472f-8b84-a09f3ec2f9fb
   port: 31313
   server: freem.vidalith.com
   type: ss
@@ -45,6 +45,13 @@ proxies:
     headers:
       Host: reedfree8mahsang2.redorg.ir
     path: /?ed=2560
+- cipher: chacha20-ietf-poly1305
+  name: 2|16🇰🇷韩国|官网：a5b3cloud.pro
+  password: 92bc0b5a-6d7a-4ab1-8a7c-b3cf788a61fb
+  port: 36311
+  server: freea.glyphara.com
+  type: ss
+  udp: true
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 12|🇰🇷 韩国2|@ripaojiedian
