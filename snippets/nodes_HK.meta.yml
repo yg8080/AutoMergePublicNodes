@@ -1,14 +1,14 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|6🇭🇰香港|官网：a5b3cloud.pro
-  password: b2ed200e-fe2a-434c-ab11-61ae27294108
+  name: 0|6🇭🇰香港|官网：蓝色海洋.xyz
+  password: e00f4e94-d646-4008-8602-9cfd91c05f53
   port: 36143
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|7🇭🇰香港住宅IP|官网：a5b3cloud.pro
-  password: b2ed200e-fe2a-434c-ab11-61ae27294108
+  name: 0|7🇭🇰香港住宅IP|官网：abluecloud.xyz
+  password: e00f4e94-d646-4008-8602-9cfd91c05f53
   port: 36145
   server: freea.glyphara.com
   type: ss
@@ -185,12 +185,12 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- name: 13|HK_speednode_0034
+- name: 13|HK_speednode_0040
   network: ws
-  port: 7656
-  server: 46.149.203.202
+  port: 443
+  server: 47.76.218.163
   servername: steep.skyfigure.top
-  skip-cert-verify: true
+  skip-cert-verify: false
   tls: true
   type: vless
   udp: true
@@ -198,8 +198,8 @@ proxies:
   ws-opts:
     headers:
       Host: steep.skyfigure.top
-    path: /TelegramU0001F1E8U0001F1F3 @pgkj666 /?ed=2560
-- name: 13|HK_speednode_0035
+    path: /Telegram @pgkj666 /?ed=2560
+- name: 13|HK_speednode_0041
   network: ws
   port: 7656
   server: 46.149.203.202
@@ -214,15 +214,15 @@ proxies:
       Host: steep.skyfigure.top
     path: /Telegram🇨🇳 @pgkj666 /?ed=2560
 - cipher: chacha20-ietf-poly1305
-  name: 14|5🇭🇰香港|官网：mikasacloud.site
-  password: 5835abcd-6a89-40ad-99a1-5f2b8e523a21
+  name: 14|5🇭🇰香港|官网：m5c3cloud.pro
+  password: 18096e57-e1df-4b4b-8c01-2d0f34079798
   port: 31143
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 14|6🇭🇰香港家宽|官网：m5c3cloud.pro
-  password: 5835abcd-6a89-40ad-99a1-5f2b8e523a21
+  name: 14|6🇭🇰香港家宽|官网：米卡莎.xyz
+  password: 18096e57-e1df-4b4b-8c01-2d0f34079798
   port: 31145
   server: freem.vidalith.com
   type: ss
