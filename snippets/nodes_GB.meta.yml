@@ -1,9 +1,9 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|4🇭🇰香港|官网：米卡莎.xyz
-  password: 9f6fcde1-86ec-4637-b36a-922c025f4ffa
-  port: 31141
-  server: freem.vidalith.com
+  name: 1|5🇭🇰香港|官网：a5b3cloud.pro
+  password: 81a343b6-3b6e-4e35-8a00-8f65f1664fcd
+  port: 36141
+  server: freea.glyphara.com
   type: ss
   udp: true
 - name: '10|Channel id: @ShadowProxy66🇬🇧'
