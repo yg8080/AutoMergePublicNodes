@@ -1,21 +1,14 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|4🇭🇰香港|官网：mikasacloud.site
-  password: 6962cad0-febb-4c2d-b4e2-97e0bcd810b8
+  name: 1|4🇭🇰香港|官网：米卡莎.xyz
+  password: 3e24b7ea-a024-432f-b3fd-53437f17217e
   port: 31141
   server: freem.vidalith.com
   type: ss
   udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|5🇭🇰香港|官网：a5b3cloud.pro
-  password: ffb2d00e-c6ae-4b5c-81e3-33a7729a04bd
-  port: 36141
-  server: freea.glyphara.com
-  type: ss
-  udp: true
 - cipher: aes-128-gcm
   client-fingerprint: chrome
-  name: 12|🇬🇧 英国|@ripaojiedian
+  name: 11|🇬🇧 英国|@ripaojiedian
   password: cf44a1b7-6806-4412-aac9-5ceb838fb705
   port: 23674
   server: sdjhv3hjubds733.nertron.xyz
