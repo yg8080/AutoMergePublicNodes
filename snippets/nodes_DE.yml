@@ -1,9 +1,9 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|29🇩🇪德国|官网：m5c3cloud.pro
-  password: 7be651e6-fffb-4e52-acf6-33c7fe49661a
-  port: 31471
-  server: freem.vidalith.com
+  name: 0|28🇩🇪德国|官网：abluecloud.xyz
+  password: b6245f45-bed5-4dc5-9036-54506878fa32
+  port: 36471
+  server: freea.glyphara.com
   type: ss
   udp: true
 - alterId: 0
@@ -36,9 +36,9 @@ proxies:
   type: trojan
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 14|28🇩🇪德国|官网：a5b3cloud.pro
-  password: 87167f90-1100-4364-9784-06d2dc6c810e
-  port: 36471
-  server: freea.glyphara.com
+  name: 14|29🇩🇪德国|官网：m5c3cloud.pro
+  password: 270808aa-2cf4-44aa-b3a6-09aca4638046
+  port: 31471
+  server: freem.vidalith.com
   type: ss
   udp: true
