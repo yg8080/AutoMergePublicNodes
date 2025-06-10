@@ -1,31 +1,31 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|16🇰🇷韩国|官网：a5b3cloud.pro
-  password: d9421fe3-9b48-4c93-8566-0bdaaf221dc3
-  port: 36311
-  server: freea.glyphara.com
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 1|16🇰🇷韩国|官网：mikasacloud.site
-  password: c140d8e3-94a5-46f9-af70-604099338091
+  name: 0|16🇰🇷韩国|官网：mikasacloud.site
+  password: a98d8f37-d6df-43d0-aa02-8a82149ad651
   port: 31311
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|17🇰🇷韩国|官网：mikasacloud.site
-  password: c140d8e3-94a5-46f9-af70-604099338091
+  name: 0|17🇰🇷韩国|官网：米卡莎.xyz
+  password: a98d8f37-d6df-43d0-aa02-8a82149ad651
   port: 31313
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: aes-256-cfb
-  name: 2|🇰🇷2 |  1.5MB/s|44%|Openai
+  name: 1|🇰🇷2 |  1.5MB/s|44%|Openai
   password: qwerREWQ@@
   port: 15098
   server: 125.141.31.72
   type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 2|16🇰🇷韩国|官网：abluecloud.xyz
+  password: 48a418ae-c13b-4641-ac26-54bce7d3fcb7
+  port: 36311
+  server: freea.glyphara.com
+  type: ss
+  udp: true
 - client-fingerprint: chrome
   name: 12,13|韩国|@ripaojiedian
   network: tcp
