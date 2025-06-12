@@ -1,7 +1,7 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇷🇺俄罗斯 101 | 1x RU
-  password: 980d3580-b9bf-4ed6-9fce-dd1daced9f27
+  name: 2|🇷🇺俄罗斯 101 | 1x RU
+  password: bd643105-e4c1-4bb0-884f-743eb977277b
   port: 31511
   server: freem.vidalith.com
   type: ss
