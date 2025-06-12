@@ -1,20 +1,20 @@
 proxies:
 - cipher: aes-256-cfb
-  name: 0|🇰🇷2 |  1.5MB/s|44%|Openai
+  name: 1|🇰🇷2 |  1.5MB/s|44%|Openai
   password: qwerREWQ@@
   port: 15098
   server: 125.141.31.72
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 2|🇰🇷韩国 101 | 1x KR
-  password: bd643105-e4c1-4bb0-884f-743eb977277b
+  password: ba012194-aa4a-4165-9af3-212a57d5ff4e
   port: 31311
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 2|🇰🇷韩国 102 | 1x KR
-  password: bd643105-e4c1-4bb0-884f-743eb977277b
+  password: ba012194-aa4a-4165-9af3-212a57d5ff4e
   port: 31313
   server: freem.vidalith.com
   type: ss

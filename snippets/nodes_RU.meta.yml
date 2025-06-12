@@ -3,7 +3,7 @@ proxies:
   - h3
   client-fingerprint: chrome
   disable-sni: false
-  name: 0|🇷🇺1 |  2.5MB/s|50%
+  name: 1|🇷🇺1 |  2.5MB/s|50%
   password: f3ba3679-f2f4-465f-92a5-de320b775a88
   port: 43516
   reduce-rtt: false
@@ -17,7 +17,7 @@ proxies:
   version: 5
 - cipher: chacha20-ietf-poly1305
   name: 2|🇷🇺俄罗斯 101 | 1x RU
-  password: bd643105-e4c1-4bb0-884f-743eb977277b
+  password: ba012194-aa4a-4165-9af3-212a57d5ff4e
   port: 31511
   server: freem.vidalith.com
   type: ss
