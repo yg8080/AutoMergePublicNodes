@@ -1658,6 +1658,14 @@ proxies:
         Gecko) Chrome/53.0.2785.143 Safari/537.36
     path: /
   xudp: true
+- name: 9|👉🆔@v2ray_configs_pool📡🇺🇸®️Unit...
+  password: d9a1d1f9-3e74-4215-a478-9fa876620794
+  port: 443
+  server: 129.153.71.226
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  tls: false
+  type: hysteria2
 - name: 10|@Selinc
   password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
   port: 47262
