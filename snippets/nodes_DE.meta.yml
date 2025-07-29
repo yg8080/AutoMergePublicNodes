@@ -95,14 +95,6 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: 9|@Filter_breaker | Germany
-  password: u5v6w7x8-9012-3bcd-4abc-5678abcdef34
-  port: 443
-  server: 185.146.173.3250
-  skip-cert-verify: false
-  sni: hysteria.de.vpnfree.org
-  tls: false
-  type: hysteria2
 - name: '9|آلمان 🇩🇪 @V2xay #2'
   obfs: salamander
   obfs-password: The_Sefr-salamdash
@@ -112,7 +104,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '9|@Filter_breaker | Germany #1'
+- name: 9|@Filter_breaker | Germany
   password: w7x8y9z0-3456-7bcd-8abc-9012abcdef90
   port: 443
   server: 185.146.173.3400

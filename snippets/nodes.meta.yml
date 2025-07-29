@@ -1839,14 +1839,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 9|@CanfigVip+🍕
-  password: 07c122ad-50b2-4f61-9435-efcf112bb10b
-  port: 56704
-  server: 172.252.236.213
-  skip-cert-verify: false
-  sni: dxobg4azmk.gafnode.sbs
-  tls: false
-  type: hysteria2
 - name: 9|@V2rayNG3
   password: '123456'
   port: 443
@@ -2333,14 +2325,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 9|@Filter_breaker | Germany
-  password: u5v6w7x8-9012-3bcd-4abc-5678abcdef34
-  port: 443
-  server: 185.146.173.3250
-  skip-cert-verify: false
-  sni: hysteria.de.vpnfree.org
-  tls: false
-  type: hysteria2
 - name: 9|(@vmesskhodam)چنل
   obfs: salamander
   obfs-password: mkv_SEfr-salamdash
@@ -2359,7 +2343,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '9|@Filter_breaker | Germany #1'
+- name: 9|@Filter_breaker | Germany
   password: w7x8y9z0-3456-7bcd-8abc-9012abcdef90
   port: 443
   server: 185.146.173.3400
