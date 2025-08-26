@@ -161,7 +161,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8,9|@Hddify '
+- name: 8,9| 𝗝𝗼𝗶𝗻 ➠ @Viturey
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -219,12 +219,28 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 9|@
+  password: 366dad01-dd99-47be-92fa-6beddd09fff9
+  port: 22157
+  server: hshl.huasuan666.top
+  skip-cert-verify: true
+  sni: hshl.huasuan666.top
+  tls: false
+  type: hysteria2
 - name: 9|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها او ر...
   password: 3QlSMKyqLp
   port: 443
   server: android.yas-nowin.ir
   skip-cert-verify: false
   sni: android.yas-nowin.ir
+  tls: false
+  type: hysteria2
+- name: '9|@ #1'
+  password: 45b46edb-679b-4ea5-befd-88c05bb94f80
+  port: 2056
+  server: de.eyucdn.xyz
+  skip-cert-verify: true
+  sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
 - name: '9|@V2rayNG3 #3'
@@ -345,7 +361,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 9|TEL > SaghiVpnXBOT [🇳🇱]
+- name: '9|☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
