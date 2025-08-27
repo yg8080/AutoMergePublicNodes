@@ -108,7 +108,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '9,10|@ZenixVPN_Channel #1'
+- name: 9|FR
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
   server: de.eyucdn.xyz
@@ -533,14 +533,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 10|@ZenixVPN_Channel
-  password: 366dad01-dd99-47be-92fa-6beddd09fff9
-  port: 22157
-  server: hshl.huasuan666.top
-  skip-cert-verify: true
-  sni: hshl.huasuan666.top
-  tls: false
-  type: hysteria2
 - name: 10|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها او ر...
   password: 3QlSMKyqLp
   port: 443
@@ -741,14 +733,6 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '10|@ZenixVPN_Channel #2'
-  password: a503efc7-b681-466f-be23-434483b2a07b
-  port: 22158
-  server: hsfg.huasuan666.top
-  skip-cert-verify: true
-  sni: hsfg.huasuan666.top
-  tls: false
-  type: hysteria2
 - name: '10|@V2rayNG3 #8'
   password: dongtaiwang.com
   port: 50717
@@ -765,7 +749,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 10|🇬@FreakConfig
+- name: '10|@FreakConfig #3'
   password: f192a1eb-5987-49b2-9b2d-31a1410d7566
   port: 22156
   server: hsyg.huasuan666.top
