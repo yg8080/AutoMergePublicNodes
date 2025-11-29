@@ -118,7 +118,7 @@ proxies:
   sni: dd.ircybersec.org
   tls: false
   type: hysteria2
-- name: 9,10|AZARBAYJAB12RAY
+- name: 9,10|WiFi-@V2rayAlpha--2
   password: SNItest
   port: 443
   server: 37.18.14.169
